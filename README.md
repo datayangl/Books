@@ -1,3 +1,10 @@
+- [Books 书单](#books-书单)
+  - [evolve](#evolve)
+  - [Java](#java)
+  - [flink](#flink)
+  - [paper](#paper)
+
+
 # Books 书单
 
 ## evolve
@@ -25,3 +32,9 @@
 [Apache Calcite- A Foundational Framework for Optimized Query Processing Over Heterogeneous Data Sources](./flink/Apache%20Calcite-%20A%20Foundational%20Framework%20for%20Optimized%20Query%20Processing%20Over%20Heterogeneous%20Data%20Sources.pdf)
 
 [state-management-in-apache-flink](./flink/state-management-in-apache-flink.pdf)
+
+## paper
+
+raft协议 [raft协议](./paper/raft.pdf)
+
+分布式快照算法论文，flink checkpoint 实现参考于此 [Distributed Snapshots:Determining Global States of Distributed Systems](./paper/Distributed%20Snapshots.pdf)
