@@ -35,6 +35,13 @@
 
 ## paper
 
+google 3驾马车之 - gfs 论文 [The Google File System](./paper/gfs.pdf)
+
 raft协议 [raft协议](./paper/raft.pdf)
 
+
 分布式快照算法论文，flink checkpoint 实现参考于此 [Distributed Snapshots:Determining Global States of Distributed Systems](./paper/Distributed%20Snapshots.pdf)
+
+spark-codegen 相关论文[Efficiently Compiling Efficient Query Plans for Modern Hardware](./paper/Efficiently%20Compiling%20Efficient%20Query%20Plans%20for%20Modern%20Hardware.pdf)
+
+火山模型 [Volcano-An Extensible and Parallel Query Evaluation System](./paper/Volcano-An%20Extensible%20and%20Parallel%20Query%20Evaluation%20System.pdf)
