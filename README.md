@@ -45,3 +45,5 @@ raft协议 [raft协议](./paper/raft.pdf)
 spark-codegen 相关论文[Efficiently Compiling Efficient Query Plans for Modern Hardware](./paper/Efficiently%20Compiling%20Efficient%20Query%20Plans%20for%20Modern%20Hardware.pdf)
 
 火山模型 [Volcano-An Extensible and Parallel Query Evaluation System](./paper/Volcano-An%20Extensible%20and%20Parallel%20Query%20Evaluation%20System.pdf)
+
+数据流模型 [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing](./paper/The%20Dataflow%20Model.pdf)
