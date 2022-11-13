@@ -47,3 +47,16 @@ spark-codegen 相关论文[Efficiently Compiling Efficient Query Plans for Moder
 火山模型 [Volcano-An Extensible and Parallel Query Evaluation System](./paper/Volcano-An%20Extensible%20and%20Parallel%20Query%20Evaluation%20System.pdf)
 
 数据流模型 [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing](./paper/The%20Dataflow%20Model.pdf)
+
+
+## money talk
+
+### 入门
+
+[富爸爸穷爸爸](./money%20talk/%E5%AF%8C%E7%88%B8%E7%88%B8%E7%A9%B7%E7%88%B8%E7%88%B8_%E7%A9%B7%E7%88%B8%E7%88%B8%E5%AF%8C%E7%88%B8%E7%88%B8_%E5%AF%8C%E7%88%B8%E7%88%B8%E7%A9%B7%E7%88%B8%E7%88%B8%E5%85%A8%E9%9B%86.pdf)
+
+[给投资新手的极简股票课](./money%20talk/%E7%BB%99%E6%8A%95%E8%B5%84%E6%96%B0%E6%89%8B%E7%9A%84%E6%9E%81%E7%AE%80%E8%82%A1%E7%A5%A8%E8%AF%BE(%E9%AB%98%E6%B8%85).pdf)
+
+### 理论
+
+[经济学原理](/money%20talk/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8E%9F%E7%90%86%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89_%E5%BE%AE%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%88%86%E5%86%8C_%E7%BE%8E_%E6%9B%BC%E6%98%86.pdf)
